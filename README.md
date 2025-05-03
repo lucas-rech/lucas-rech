@@ -133,8 +133,8 @@
 
 ### 📊 Estatísticas
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-rech&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-rech&show_icons=true&locale=en&theme=ocean_dark&layout=compact" alt="Top Langs" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucas-rech&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucas-rech&show_icons=true&theme=ocean_dark" alt="GitHub Stats" />
 </p>
