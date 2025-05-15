@@ -9,7 +9,7 @@
 
 ### 🚀 Sobre mim
 
-- 🌱 Atualmente aprendendo **Machine Learning, Visão Computacional, Docker e Kubernetes**
+- 🌱 Atualmente aprendendo **Vue.JS, Docker, Kubernetes, CI/CD, e uso de cookies**
 - 📫 Entre em contato: **lucasrech00@gmail.com**
 
 ---
