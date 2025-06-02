@@ -9,7 +9,7 @@
 
 ### 🚀 Sobre mim
 
-- 🌱 Atualmente aprendendo **Vue.JS, Docker, Kubernetes, CI/CD, e uso de cookies**
+- 🌱 Atualmente aprendendo **Go, Docker/Compose e React**
 - 📫 Entre em contato: **lucasrech00@gmail.com**
 
 ---
