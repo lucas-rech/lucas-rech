@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou o Lucas Rech</h1>
-<h3 align="center">💻 Desenvolvedor Fullstack | Java | Spring | React</h3>
+<h3 align="center">💻 Desenvolvedor | Java | Spring | Node.JS | NestJS | React</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lucas-rech&label=Profile%20views&color=0e75b6&style=flat" alt="lucas-rech" />
@@ -9,7 +9,7 @@
 
 ### 🚀 Sobre mim
 
-- 🌱 Atualmente aprendendo **Go, Docker/Compose e React**
+- 🌱 Atualmente aprendendo **Node.JS, Docker, NestJS, React**
 - 📫 Entre em contato: **lucasrech00@gmail.com**
 
 ---
