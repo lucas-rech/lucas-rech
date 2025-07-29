@@ -32,7 +32,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%2300599C.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/go-%230db7ed.svg?style=for-the-badge&logo=go&logoColor=white)
 
 
 #### 🖥️ Frameworks
@@ -40,7 +39,6 @@
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-%2300ADD8.svg?style=for-the-badge&logo=gin-gonic&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-%23FF6F00.svg?style=for-the-badge&logo=yolo&logoColor=white)
 
 #### 📚 Libraries
