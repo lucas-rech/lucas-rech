@@ -20,7 +20,7 @@
 
 - 💬 Tenho habilidades na área de desenvolvimento de software web, com ênfase em aplicações ao lado do servidor (backend), utilizando boas práticas de desenvolvimento e arquitetura de software, além de conhecimento em algumas das principais tecnologias utilizadas no mercado.
 
-- 🌱 Atualmente estou me aprofundando nos temas de _Machine Learning_, _Visão Computacional_ e _Desenvolvimento de Sistemas Embarcados_ para fins de projetos práticos dentro do ambiente acadêmico.
+- 🌱 Atualmente estou empreendendo em um micro SaaS, aprendendo tecnologias mobile (React Native). Também estou desenvolvendo projetos reais com Java (Spring) e Angular.
 
 ## 🛠 Tecnologias
 
