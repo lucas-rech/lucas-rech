@@ -20,7 +20,7 @@
 
 - 💬 Tenho habilidades na área de desenvolvimento de software web, com ênfase em aplicações ao lado do servidor (backend), utilizando boas práticas de desenvolvimento e arquitetura de software, além de conhecimento em algumas das principais tecnologias utilizadas no mercado.
 
-- 🌱 Atualmente estou desenvolvendo um projeto de um sistema acadêmico de detecção de placas veiculares, um CRM para pequenos negócios do segmento de confeitaria e um gerenciador de inventário.
+- 🌱 Atualmente estou desenvolvendo um projeto de um sistema acadêmico de detecção de placas veiculares e um gerenciador de inventário para a empresa em que trabalho. Estou me aprofundando em React.
 
 ## 🛠 Tecnologias
 
