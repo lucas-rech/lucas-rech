@@ -79,7 +79,7 @@
  
  <div align=center>
   
-![]([https://streak-stats.demolab.com/?user=lucas-rech](https://streak-stats.demolab.com/?user=lucas-rech&theme=blue-navy&locale=pt_BR&card_width=500))
+![](https://streak-stats.demolab.com/?user=lucas-rech)
 
  </div>
  
