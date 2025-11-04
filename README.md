@@ -79,7 +79,7 @@
  
  <div align=center>
   
-![](https://streak-stats.demolab.com/?user=lucas-rech)](https://git.io/streak-stats)
+![](https://streak-stats.demolab.com/?user=lucas-rech)
 
  </div>
  
