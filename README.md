@@ -91,7 +91,7 @@
 
  <div align=center>
   
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=lucas-rech&show_icons=true&locale=pt-br&layout=compact&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=lucas-rech&show_icons=true&locale=pt-br&layout=compact&theme=radical)
   
  </div>
  
