@@ -16,11 +16,11 @@
 
 ---
 
-- 👨‍💻 Atualmente trabalhando com Tecnologia da Informação desempenhando atividades de data analysis e Mobile Device Managment para gestão de dispositivos android. Sou apaixonado por desenvolver soluções que facilitam a vida das pessoas e automatizam processos.  Discente do Instituto Federal do Rio Grande do Sul, no curso de Sistemas de Informação. Atuo como bolsista em um projeto de Bolsa de Iniciação ao Desenvolvimento Tecnológico e Inovação (BIDTI) na área de visão computacional (CV) e machine learning.
+- 👨‍💻 Atualmente trabalhando como Desenvolvedor de Software em projeto de grupo varejista farmacêutico, atuo principalmente em um projeto de emissão de notas fiscais, empregando tecnologias como Java, Spring e Messager Broker. Sou apaixonado por desenvolver soluções que facilitam a vida das pessoas e automatizam processos.  
 
 - 💬 Tenho habilidades na área de desenvolvimento de software web, com ênfase em aplicações ao lado do servidor (backend), utilizando boas práticas de desenvolvimento e arquitetura de software, além de conhecimento em algumas das principais tecnologias utilizadas no mercado.
 
-- 🌱 Atualmente estou desenvolvendo um projeto de um sistema acadêmico de detecção de placas veiculares e um gerenciador de inventário para a empresa em que trabalho. Estou me aprofundando em React.
+- 🌱 Atuei como bolsista em projetos de pesquisa e desenvolvimento tecnológico pelo Instituto Federal do Rio Grande do Sul, tendo apresentado trabalhos na área de Machine Learning em semanas acadêmicas e salões de conhecimento, além da elaboração de artigos científicos.
 
 ## 🛠 Tecnologias
 
