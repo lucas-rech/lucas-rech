@@ -16,7 +16,7 @@
 
 ---
 
-- 👨‍💻 Atualmente trabalhando como Desenvolvedor de Software em projeto de grupo varejista farmacêutico, atuo principalmente em um projeto de emissão de notas fiscais, empregando tecnologias como Java, Spring e Messager Broker. Sou apaixonado por desenvolver soluções que facilitam a vida das pessoas e automatizam processos.  
+- 👨‍💻 Atualmente trabalhando como Desenvolvedor de Software Backend em um projeto para um dos maiores grupos farmacêuticos do país. Utilizo tecnologias como Java, Spring, TypeScript, Oracle SQL, Docker, RabbitMQ entre outras!
 
 - 💬 Tenho habilidades na área de desenvolvimento de software web, com ênfase em aplicações ao lado do servidor (backend), utilizando boas práticas de desenvolvimento e arquitetura de software, além de conhecimento em algumas das principais tecnologias utilizadas no mercado.
 
