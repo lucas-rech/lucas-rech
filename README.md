@@ -77,35 +77,6 @@
   
  </div>
  
- ### ⏱ Sequência
- 
- <div align=center>
-  
-![](https://streak-stats.demolab.com/?user=lucas-rech)
-
- </div>
- 
- ### 📈 Activity Graph
- 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucas-rech&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### 📊 Linguagem mais utilizada
-
- <div align=center>
-  
-![](https://github-readme-stats.vercel.app/api/top-langs?username=lucas-rech&show_icons=true&locale=pt-br&layout=compact&theme=radical)
-  
- </div>
- 
- ### 🏆 Troféus
-
-<div align=center>
- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lucas-rech&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
-
----
 
 ### 🔗 &nbsp;Entre em contato
 
