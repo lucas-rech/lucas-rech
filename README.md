@@ -16,11 +16,13 @@
 
 ---
 
-- 👨‍💻 Atualmente trabalhando como Desenvolvedor de Software Backend em um projeto para um dos maiores grupos farmacêuticos do país. Utilizo tecnologias como Java, Spring, TypeScript, Oracle SQL, Docker, RabbitMQ entre outras!
+## Olá! 👋 
 
-- 💬 Tenho habilidades na área de desenvolvimento de software web, com ênfase em aplicações ao lado do servidor (backend), utilizando boas práticas de desenvolvimento e arquitetura de software, além de conhecimento em algumas das principais tecnologias utilizadas no mercado.
+- 👨‍💻 **Atualmente:** Atuo como Desenvolvedor de Software Backend focado em soluções escaláveis para um dos maiores grupos farmacêuticos do país. Trabalho na engenharia e arquitetura de microsserviços e APIs REST, utilizando tecnologias como **Java 17, Spring, Go e TypeScript**, além de trabalhar com mensageria (**RabbitMQ e Kafka**) e **Oracle SQL** em ambientes **Docker/Kubernetes**.
 
-- 🌱 Atuei como bolsista em projetos de pesquisa e desenvolvimento tecnológico pelo Instituto Federal do Rio Grande do Sul, tendo apresentado trabalhos na área de Machine Learning em semanas acadêmicas e salões de conhecimento, além da elaboração de artigos científicos.
+- ⚙️ **Como eu construo:** Tenho forte ênfase no desenvolvimento server-side, criação de sistemas centrais, web scraping e processamento de dados. Baseio meu código em fundamentos robustos, aplicando **princípios SOLID**, **Design Patterns** e **Arquitetura Hexagonal** dentro de ambientes ágeis (Scrum) integrados com ferramentas de entrega contínua
+
+- 🌱 **Background de Pesquisa & IA:** Anteriormente, atuei em projetos de Pesquisa e Desenvolvimento Tecnológico (P&D) pelo Instituto Federal do Rio Grande do Sul. Nesse período, desenvolvi e treinei modelos de Inteligência Artificial do zero (como sistemas de reconhecimento óptico/OCR) e apresentei trabalhos focados em Machine Learning em semanas acadêmicas, além de publicar artigos científicos.
 
 ## 🛠 Tecnologias
 
